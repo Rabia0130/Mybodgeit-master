@@ -44,6 +44,5 @@ You can now also perform automated security regression tests on the Bodge It Sto
 Any feedback (or offers of help to develop it further;) would be appreciated.
 
 My comment Another change in Readme123456ZZZZZZZZZZZZZZZZZZZ
-ça ne commit pas sur github !!! GRRRR
-
+ça commit maintenant !!!
 CxFlowMasterPush-Test1
