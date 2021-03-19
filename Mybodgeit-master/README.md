@@ -1,3 +1,6 @@
+
+ATTENTION - THIS IS A COPY OF THE ORIGINAL REPO OF https://github.com/psiinon/bodgeit
+
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
 > ### Please note that The BodgeIt Store is no longer being worked on
